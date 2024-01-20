@@ -1,0 +1,35 @@
+Acording to chat gpt, the models that he suggest is: 
+1) CSRNet:
+for Crowd Density Analysis
+
+2) Yolo 4:
+for other task
+
+chat gpt suggestion:
+
+As of my last knowledge update in January 2022, I can provide general guidance based on the tasks you mentioned and the latest information available. Please check the provided sources for the most up-to-date information on YOLO models. Considering your specific use cases, here are suggested YOLO models:
+
+Crowd Density Analysis:
+
+Recommended Model: CSRNet (not a YOLO model)
+Why: CSRNet is designed for crowd counting and density estimation, which aligns well with your requirement for crowd density analysis.
+Automatic Detection and Notification (Fight, Accident, Oversized Cargo):
+
+Recommended Model: YOLOv4 or YOLOv4-CSP
+Why: YOLOv4 and its variants offer a good balance between speed and accuracy. They can be trained to detect various objects and scenarios, making them suitable for your needs.
+Detection and Notification of a Person Falling:
+
+Recommended Model: YOLOv4 or YOLOv4x-mish
+Why: YOLOv4's strong object detection capabilities can be employed for detecting people falling. Additionally, YOLOv4x-mish includes the Mish activation function, which may enhance performance.
+Monitoring of Zone Boundaries (Perimeter Crossing):
+
+Recommended Model: YOLOv4 or YOLOv4-CSP
+Why: YOLOv4 and its CSP variant can be trained to detect objects crossing predefined boundaries, making them suitable for perimeter monitoring.
+Detection and Notification (Ejection of Objects, Smoke, Fire):
+
+Recommended Model: YOLOv4 or YOLOv4x-mish
+Why: YOLOv4's strong object detection capabilities can be applied to detect objects, smoke, or fire. YOLOv4x-mish may offer additional performance benefits.
+Monitoring and Condition Analysis (Drifts, Garbage, Filled Containers):
+
+Recommended Model: YOLOv4 or YOLOv4-CSP
+Why: YOLOv4 variants can be trained to detect and analyze various conditions, including the presence of drifts, garbage, or filled containers.
