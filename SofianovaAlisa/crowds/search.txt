@@ -1,0 +1,14 @@
+model VGG16:
+https://medium.com/analytics-vidhya/introduction-to-crowd-density-estimation-bc60223f363b
+
+CSRNet:
+https://towardsdatascience.com/deploy-a-crowd-size-estimator-with-pytorch-size-ai-580903a101a5
+
+Yolo5:
+https://www.researchgate.net/publication/369786209_Comparison_YOLOv5_Family_for_Human_Crowd_Detection
+
+CNN:
+https://medium.com/@kaamyakpant_67666/building-a-crowd-counting-model-using-deep-learning-e8b8e925674e
+https://ijisae.org/index.php/IJISAE/article/view/4010/2662
+
+So far, seems that for these problem cnn model works best. But I would like to study more about yolo8.
