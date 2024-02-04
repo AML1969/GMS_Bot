@@ -1,0 +1,10 @@
+fire
+smoke
+garbage
+snow
+fight
+accident
+oversized
+fall
+ice
+weapon
