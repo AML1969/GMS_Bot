@@ -12,3 +12,5 @@ https://docs.google.com/document/d/1sDpxrp8AALuP6f0c0tsrYY8PZP2WF2HUW6ewXOR9Wkg/
 # Подключение к камерам:  
 https://docs.google.com/document/d/1ALnQzc7Zc8-eLfNkbxhsnQMFBrPHuJA3EV4qcw2ZYO8/edit?usp=sharing
 
+# Ссылка на рабочую папку:
+https://docs.google.com/spreadsheets/d/12xnbjXTDdaBNGBn_By5RsbCwvy3ALWYkRTaCwq02nhg/edit#gid=1638226294
