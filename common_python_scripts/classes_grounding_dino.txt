@@ -1,0 +1,11 @@
+fire
+smoke
+garbage, garbagebag, container, trash
+snow
+fight
+accident
+oversized
+fall
+ice
+weapon
+person
